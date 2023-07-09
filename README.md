@@ -12,10 +12,44 @@ This project is an online encyclopedia that functions like Wikipedia. It's a par
 - **Random Page:** Takes users to a random encyclopedia entry.
 
 ## Setup
-Detailed instructions on how to clone the repository and get the project running on your local system.
+1. **Clone this repository**
 
-## Usage
-Detailed instructions on how to create, view, edit, and search for entries.
+    ```bash
+    git clone https://github.com/qildeli/wiki.git
+    ```
+
+2. **Navigate into the repository's directory**
+
+    ```bash
+    cd wiki
+    ```
+
+3. **Create a virtual environment** (optional)
+
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
+
+4. **Install dependencies**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+5. **Run migrations**
+
+    ```bash
+    python manage.py makemigrations
+    python manage.py migrate
+    ```
+
+6. **Run the application**
+
+    ```bash
+    python manage.py runserver
+    ```
+
 
 ## Credits
-This project was created by me as a part of CS50's Web Programming with Python and JavaScript course.
+This project was created by Ana Khutsishvili as a part of [CS50's Web Programming with Python and JavaScript course.](https://cs50.harvard.edu/web/2020/projects/1/wiki/)
