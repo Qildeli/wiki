@@ -18,4 +18,4 @@ Detailed instructions on how to clone the repository and get the project running
 Detailed instructions on how to create, view, edit, and search for entries.
 
 ## Credits
-This project was created by [Ana Khutsishvili] as a part of CS50's Web Programming with Python and JavaScript course.
+This project was created by me as a part of CS50's Web Programming with Python and JavaScript course.
