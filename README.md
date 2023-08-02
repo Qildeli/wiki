@@ -49,7 +49,3 @@ This project is an online encyclopedia that functions like Wikipedia. It's a par
     ```bash
     python manage.py runserver
     ```
-
-
-## Credits
-This project was created by Ana Khutsishvili as a part of [CS50's Web Programming with Python and JavaScript course.](https://cs50.harvard.edu/web/2020/projects/1/wiki/)
