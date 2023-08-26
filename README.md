@@ -1,7 +1,7 @@
 # wiki
 
 ## Overview
-This project is an online encyclopedia that functions like Wikipedia. It's a part of Harvard's CS50 Web Programming with Python and JavaScript course. It includes functionalities for creating new entries, editing existing ones, and searching within entries.
+This project is an online encyclopedia that functions like Wikipedia. It's a part of (Harvard's CS50 Web Programming with Python and JavaScript course.)[https://cs50.harvard.edu/web/2020/projects/1/] It includes functionalities for creating new entries, editing existing ones, and searching within entries.
 
 ## Key Features
 - **View Entry:** Allows users to click on an entry name to go directly to that entry page.
